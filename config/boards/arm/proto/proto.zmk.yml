@@ -1,0 +1,14 @@
+file_format: "1"
+id: proto
+name: Proto
+url: https://github.com/sergzver85
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+siblings:
+  - proto_left
+  - proto_right
